@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Eram Perwez</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img src="[https://www.vectorstock.com/royalty-free-vector/girl-sitting-at-a-laptop-anime-vector-32027836](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="code"
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="code"
     width="400" align="right">
 
 
